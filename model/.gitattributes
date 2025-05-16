@@ -1,0 +1,5 @@
+vocab/key2row filter=lfs diff=lfs merge=lfs -text
+vocab/lookups.bin filter=lfs diff=lfs merge=lfs -text
+vocab/strings.json filter=lfs diff=lfs merge=lfs -text
+vocab/vectors filter=lfs diff=lfs merge=lfs -text
+vocab/vectors.cfg filter=lfs diff=lfs merge=lfs -text
